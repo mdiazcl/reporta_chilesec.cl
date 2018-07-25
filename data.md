@@ -16,4 +16,4 @@ Encontraste alg&uacute;n fallo de seguridad en una empresa? Te invito a buscar a
 
 ---
 
-###### &#191;Deseas entrar a este listado? Envia un correo a miguel.diaz@mdiazlira.com con la informaci&oacute;n de tu empresa! Env&iacute;me por favor el nombre, correo y si tienen alg&uacute;n formato para sus reportes! 
+###### &#191;Deseas entrar a este listado? Envia un correo a miguel.diaz@mdiazlira.com con la informaci&oacute;n de tu empresa! Env&iacute;ame por favor el nombre, correo y si tienen alg&uacute;n formato para sus reportes! 
